@@ -207,8 +207,8 @@ header ul li a:hover {
 }
 
 .p_project li img {
-    width: 200px;
-    height: 200px;
+    width: 150px;
+    height: 150px;
     object-fit: cover;
     border-radius: 30px;
     cursor: pointer;
@@ -234,8 +234,8 @@ header ul li a:hover {
 }
 
 .c_project li img {
-    width: 200px;
-    height: 200px;
+    width: 150px;
+    height: 150px;
     object-fit: cover;
     border-radius: 30px;
     cursor: pointer;
@@ -261,8 +261,8 @@ header ul li a:hover {
 }
 
 .j_project li img {
-    width: 200px;
-    height: 200px;
+    width: 150px;
+    height: 150px;
     object-fit: cover;
     border-radius: 30px;
     cursor: pointer;
